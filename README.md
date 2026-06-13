@@ -66,18 +66,6 @@ Frontend Developer passionate about building scalable web applications, geospati
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/RadityaAriyantaP
